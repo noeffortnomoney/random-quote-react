@@ -1,3 +1,10 @@
+# Random Quote
+
+  - Link DEMO: [Random Quotes](https://noeffortnomoney.github.io/pomodoro-js/)
+
+  - Technology in using the project: HTML, CSS, ReactJS
+ <center><img src="" alt="pic" width="600" height="400"></center>
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
