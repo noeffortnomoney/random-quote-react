@@ -1,6 +1,6 @@
 # Random Quote
 
-  - Link DEMO: [Random Quotes](https://noeffortnomoney.github.io/pomodoro-js/)
+  - Link DEMO: [Random Quotes](https://noeffortnomoney.github.io/random-quote-react/)
 
   - Technology in using the project: HTML, CSS, ReactJS
  <center><img src="" alt="pic" width="600" height="400"></center>
