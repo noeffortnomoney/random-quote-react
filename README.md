@@ -3,7 +3,7 @@
   - Link DEMO: [Random Quotes](https://noeffortnomoney.github.io/random-quote-react/)
 
   - Technology in using the project: HTML, CSS, ReactJS
- <center><img src="" alt="pic" width="600" height="400"></center>
+
  
 # Getting Started with Create React App
 
